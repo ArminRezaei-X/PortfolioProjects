@@ -14,13 +14,13 @@ In this section, the users of must create an account for themselves (this means 
 For this purpose, the user's information will be recieved and stored in a separate file (informations of users.txt).
 This program is multi-user, so it's able to manage multiple users but at different times.
 The information stored from the user includes at the following:
-. Username
-. Name
-. Family
-. National code
-. Mobile number
-. Email
-. Password
+- Username
+- Name
+- Family
+- National code
+- Mobile number
+- Email
+- Password
 
 1-2: Sign In 
 In this section, the user must first enter his username and then his password. The program will check the correctness of the username and password, and if approved, the user will be allowed to log in.
